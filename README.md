@@ -29,7 +29,7 @@ Projects in this repository are distributed under the MIT License. See `LICENSE.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 * [Consensys](https://consensys.net)
-* [Ethereum](https://ethereum.org/en))
-* [Solana](https://solana.com/))
+* [Ethereum](https://ethereum.org/en)
+* [Solana](https://solana.com/)
 * [Hardhat](https://hardhat.org)
 * [Choose a License](https://choosealicense.com)
