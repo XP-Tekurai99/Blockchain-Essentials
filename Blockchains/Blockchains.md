@@ -47,5 +47,43 @@ Disadvantages:
 Use Cases: With proper security and maintenance, this blockchain is a great asset to secure information without exposing it to the public eye. Therefore companies use them for internal auditing, voting, and asset management. An example of private blockchains is Hyperledger, Corda.
 
 ### Hybrid Blockchain
+It is the mixed content of the private and public blockchain, where some part is controlled by some organization and other makes are made visible as a public blockchain.
+
+It is a combination of both public and private blockchain. 
+Permission-based and permissionless systems are used.
+User access information via smart contracts
+Even a primary entity owns a hybrid blockchain it cannot alter the transaction
+
+Advantages:
+* Ecosystem: Most advantageous thing about this blockchain is its hybrid nature. It cannot be hacked as 51% of users don’t have access to the network
+* Cost: Transactions are cheap as only a few nodes verify the transaction. All the nodes don’t carry the verification hence less computational cost.
+* Architecture: It is highly customizable and still maintains integrity, security, and transparency.
+* Operations: It can choose the participants in the blockchain and decide which transaction can be made public.
+
+Disadvantages:
+* Efficiency: Not everyone is in the position to implement a hybrid Blockchain. The organization also faces some difficulty in terms of efficiency in maintenance.
+* Transparency: There is a possibility that someone can hide information from the user. If someone wants to get access through a hybrid blockchain it depends on the organization whether they will give or not.
+* Ecosystem: Due to its closed ecosystem this blockchain lacks the incentives for network participation.
+
+Use Case: It provides a greater solution to the health care industry, government, real estate, and financial companies. It provides a remedy where data is to be accessed publicly but needs to be shielded privately. Examples of Hybrid Blockchain are Ripple network and XRP token.
 
 ### Consortium Blockchain
+It is a creative approach that solves the needs of the organization. This blockchain validates the transaction and also initiates or receives transactions.
+
+Also known as Federated Blockchain. 
+This is an innovative method to solve the organization’s needs. 
+Some part is public and some part is private. 
+In this type, more than one organization manages the blockchain.
+
+Advantages:
+* Speed: A limited number of users make verification fast. The high speed makes this more usable for organizations.
+* Authority: Multiple organizations can take part and make it decentralized at every level. Decentralized authority, makes it more secure.
+* Privacy: The information of the checked blocks is unknown to the public view. but any member belonging to the blockchain can access it.
+* Flexible: There is much divergence in the flexibility of the blockchain. Since it is not a very large decision can be taken faster.
+
+Disadvantages:
+* Approval: All the members approve the protocol making it less flexible. Since one or more organizations are involved there can be differences in the vision of interest.
+* Transparency: It can be hacked if the organization becomes corrupt. Organizations may hide information from the users.
+* Vulnerability: If few nodes are getting compromised there is a greater chance of vulnerability in this blockchain
+
+Use Cases: It has high potential in businesses, banks, and other payment processors. Food tracking of the organizations frequently collaborates with their sectors making it a federated solution ideal for their use. Examples of consortium Blockchain are Tendermint and Multichain.
