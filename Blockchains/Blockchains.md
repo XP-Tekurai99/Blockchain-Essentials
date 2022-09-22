@@ -1,4 +1,49 @@
 # Blockchains
+The basic application of the blockchain is to perform transactions in a secure network. That’s why people use blockchain and ledger technology in different scenarios. One can set up multichain to prevent unauthorized access to sensitive data. It is not available to the public, and can only be available to authorized entities in the organization. It depends on the organization which type it requires to choose for their work. 
+
+By using blockchain, orders and payments can be tracked from end to end.
+
+## Permissioned and Permissionless
+### Permissionless Blockchain
+It is also known as trustless or public blockchains, are available to everyone to participate in the blockchains process that use to validate transactions and data. These are used in the network where high transparency is required. 
+
+#### Characteristics:
+* Permissionless blockchain has no central authority.
+* The platform is completely open-source.
+* Full transparency of the transaction.
+* Heavy use of tokens.
+ 
+#### Advantages:
+* Everyone can participate only requirement is good hardware and internet.
+* Bring trust among users or entities. 
+* It has a high level of transparency as it’s a larger network. 
+* Broader decentralization of access to more participants.
+
+#### Disadvantages:
+* Poor energy efficiency due to large network.
+* Lower performance scalability.
+* Less privacy as many of the things is visible.
+ 
+
+### Permissioned Blockchain
+These are the closed network only a set of groups are allowed to validate transactions or data in a given blockchain network. These are used in the network where high privacy and security are required.
+
+#### Characteristics:
+* A major feature is a transparency based on the objective of the organization.
+* Another feature is the lack of anatomy as only a limited number of users are allowed.
+* It does not have a central authority.
+* Developed by private authority.
+
+#### Advantages:
+* This blockchain tends to be faster as it has some nodes for validations.
+* They can offer customizability.
+* Strong Privacy as permission is needed for accessing transaction information.
+* As few nodes are involved performance and scalability are increased.
+
+#### Disadvantages:
+* Not truly decentralized as it requires permission
+* Risk of corruption as only a few participants are involved.
+* Anytime owner and operator can change the rules as per their need.
 
 ## Blockchain Types
 
